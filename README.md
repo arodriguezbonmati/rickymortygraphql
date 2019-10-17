@@ -1,1 +1,1 @@
-# rickymortygraphql
+# Rick & Morty GraphQL
